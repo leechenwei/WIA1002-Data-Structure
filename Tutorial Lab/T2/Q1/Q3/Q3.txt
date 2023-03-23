@@ -1,0 +1,6 @@
+Raw type is a generic class or interface used without specifying a primitive type or without a type parameter
+
+The Raw type is unsafe because when we comparing to objects, with both different primitive type value, it will raise an error. 
+whenever the first value is integer then it will autoboxed into new Integer. When the second String type value come in, it will cause an error because the Integer value can't compare with String value.
+
+The raw type is allowed in java because it is used for backwards compatibility.

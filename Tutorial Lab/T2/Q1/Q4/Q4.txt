@@ -1,0 +1,2 @@
+Erasure in java means the function that help to remove the generic type information after the compliation of the code. 
+The Java is using erasure to provide tighter type checks at compile time and support generic programming.
